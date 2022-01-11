@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.6.3](https://github.com/googleapis/java-bigquery/compare/v2.6.2...v2.6.3) (2022-01-11)
+
+
+### Dependencies
+
+* update dependency org.assertj:assertj-core to v3 ([#1786](https://github.com/googleapis/java-bigquery/issues/1786)) ([69fcabf](https://github.com/googleapis/java-bigquery/commit/69fcabf478c6fab23c4da3fcc516f820cc178a5b))
+
 ### [2.6.2](https://www.github.com/googleapis/java-bigquery/compare/v2.6.1...v2.6.2) (2022-01-09)
 
 
